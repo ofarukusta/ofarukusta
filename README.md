@@ -14,11 +14,11 @@
 </p>
 
 
-- 🔭: I'm a Electrical and Electronic Engineer Student at Sakarya University
-- 💻: I’m currently working on many small ML projects.
+- 🔭: I'm a graduate of Sakarya University electrical and electronics engineering.
+- 💻: I’m an Image Processing Engineer at T Taner Havacılık ve Teknoloji.
 - 🧠: I’m currently learning Neural Networks and Deep Learning. 
-- ✈︎: I’m captain of VEGA Aviation and Aerospace Team.
-- 🤖: I'm working on artificial intelligence and image processing.
+- ✈︎: I was the founder and captain of the VEGA Aerospace Team
+- 🤖: I'm working on artificial intelligence, machine learning and image processing.
   
 
 <h3 align="center">Connect with me:</h3>
