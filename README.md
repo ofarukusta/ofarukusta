@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I am Ömer Faruk USTA  </h1>
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Artificial Intelligence-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Türkiye-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Türkçe-brightgreen" />
